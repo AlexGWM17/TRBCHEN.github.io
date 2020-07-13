@@ -13,7 +13,7 @@ siguientes firmwares: 4.84 - 4.85 - 4.86
 ### Como usarlo:
 
 Lo unico que hay que hacer es ir a una de estas direcciónes desde el navegador de internet de la cosnola.
-- Hen Automático en Español http://TheWizWikii.github.io
+- Hen Automático en Español http://bit.ly/TRBCHEN
 - HEN en Español http://TheWizWikii.github.io/hen/  
 - HEN en Inglés http://TheWizWikii.github.io/installer/ 
 
